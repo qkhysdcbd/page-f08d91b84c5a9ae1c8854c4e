@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ff1e6b9a79219d91d23bd0e7",
+  "owner": "qkhysdcbd",
+  "repo": "page-f08d91b84c5a9ae1c8854c4e",
+  "title": "qimiao",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f08d91b84c5a9ae1c8854c4e",
+      "a": "qimiao",
+      "b": "2027最新官网",
+      "entity": "qimiao",
+      "brand": "qimiao",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "94e421d4eeee51e5f3fdad0195034819cc0274983f212405878b9334d62a2999",
+      "content": {
+        "primary_entity": "qimiao",
+        "keyword1": "qimiao",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，qimiao 围绕稳定跨境连接设计，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速；团队版每月 1000GB、20 台设备，支持企业定制路由。按年付可节省两个月费用，适合按设备数量与流量需求灵活选择。",
+          "AI_HERO_SUBTITLE": "多设备订阅轻松选",
+          "AI_HERO_INTRO": "qimiao 提供基础版、旗舰版、团队版三档海外加速订阅，按流量、设备数与线路类型区分。个人用户可选基础版或旗舰版，多人团队可选团队版。按年付更划算，订阅后依据设备类型选择对应客户端导入配置即可使用。",
+          "AI_VISUAL_TITLE": "qimiao 三档订阅任选",
+          "AI_HIGHLIGHT_1": "三档套餐匹配不同设备数",
+          "AI_HIGHLIGHT_2": "IPLC 专线优化游戏体验",
+          "AI_HIGHLIGHT_3": "年付立省两个月费用",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURES_INTRO": "选套餐先看设备数量与每月流量，再看是否需要游戏加速或企业定制，最后确定月付或年付周期。",
+          "AI_FEATURE_TITLE_1": "按设备数量选",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，单人手机加电脑选基础版即可，多人共享建议团队版。",
+          "AI_FEATURE_TITLE_2": "按流量需求选",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，仅浏览网页选基础版，常看高清视频选旗舰版。",
+          "AI_FEATURE_TITLE_3": "按周期性价比选",
+          "AI_FEATURE_TEXT_3": "月付 ¥15 起灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用年付更省。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同设备对应的客户端不同，选择与操作系统匹配的版本，再导入订阅配置即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版增加流量与游戏加速，团队版面向企业多人协作，对比数值即可确定档位。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定订阅档位，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择订阅档位",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定一档，并确认月付或年付。",
+          "AI_STEP_TITLE_2": "核对设备适配",
+          "AI_STEP_TEXT_2": "查看所用手机、电脑或路由设备的系统版本，确认与所选客户端版本匹配，再准备安装。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "安装对应客户端后，依照客户端文档提供的步骤导入订阅信息，连接成功后即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松加速",
+          "AI_CLOSING_TEXT": "对照三档套餐的流量与设备数，选好订阅周期后按客户端文档完成配置即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，含 100GB 流量、3 台设备；旗舰版 ¥35/月，含 300GB、5 台设备及 IPLC 专线；团队版 ¥85/月，含 1000GB、20 台设备。年付分别为 ¥150、¥350、¥850，可按人数与流量选择。",
+          "AI_FAQ_ANSWER_2": "旗舰版与团队版解锁全部节点流媒体，基础版解锁基础流媒体。若主要看高清视频或玩游戏，建议旗舰版及以上，IPLC 专线在高负载时段更稳定。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，均为同时在线。家庭或个人多设备使用可选旗舰版，小型团队直接选团队版。",
+          "AI_FAQ_ANSWER_4": "Windows 与 macOS 可导入订阅链接；Android 与 iOS 在客户端内扫码或粘贴订阅；路由器按对应固件说明导入。不同系统配置方式略有差异，请以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "月付灵活，适合短期试用；年付可节省约两个月费用，旗舰版年付 ¥350、团队版年付 ¥850。长期稳定使用建议选择年付，成本更低。",
+          "AI_FAQ_QUESTION_1": "qimiao 三档套餐价格和内容有什么不同？",
+          "AI_FAQ_QUESTION_2": "哪些套餐支持原生流媒体解锁？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量如何限制？",
+          "AI_FAQ_QUESTION_4": "不同系统如何导入订阅？",
+          "AI_FAQ_QUESTION_5": "月付和年付如何选择更划算？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ktmcloud-le7n539j.com",
+    "host": "xn--ktmcloud-le7n539j.com"
+  },
+  "file_hashes": {
+    "index.html": "27a00a1734e65a3d20daa7690ec3684679d707ee4b12c4088987914bc9c8dbe4",
+    "sitemap.xml": "4c95be9cc86ad769e4d7789e3ceb82f1dd794318fd13c95721ad8370cd84dca3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "581a1ba1dc283491c36a642fef1d4bf2da5978ed8a1b652551270675c8f734ef",
+    "robots.txt": "7f48a21d96d0c67eb5330f653614f8d769a1551286d7c7d93dbfd0e6a7c31fc2",
+    "aada5d2afba1d5b912d83ab42971959e.txt": "cc8da9f9ed4594c03faba37f5d1e60f4bc6095cba1aefa7e73a35055d5aff548"
+  },
+  "revision": "9575e6c232caa7adab8b98236197519ea813cdc96f48992a5e5fe4fc924761da"
+}
